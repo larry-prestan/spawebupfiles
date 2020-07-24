@@ -1,0 +1,16 @@
+{
+  "name": "spaweb",
+  "version": "1.0.0",
+  "description": "SPA-WEB-PARA-GOPRE.Ltda",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LP-SOLUCIONES-INFORMATICAS/Larry-prestan-lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
